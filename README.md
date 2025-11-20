@@ -63,14 +63,12 @@ This extension includes **6 premium themes**:
 
 ## 📸 Screenshots
 
-### Base Dark
-![Base Dark Preview](screenshots/base-dark.png)
-
-### Nemesis Dark
-![Nemesis Dark Preview](screenshots/nemesis-dark.png)
-
-### Aurora Dark
-![Aurora Dark Preview](screenshots/aurora-dark.png)
+> **Coming Soon!** Screenshots of all 6 theme variants will be added shortly.
+> 
+> In the meantime, you can preview the themes by:
+> 1. Installing the theme in VSCode
+> 2. Checking the [COLOR_REFERENCE.md](COLOR_REFERENCE.md) for detailed color palettes
+> 3. Viewing the complete color schemes in each theme JSON file
 
 ## 🛠️ Development
 

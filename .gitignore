@@ -1,0 +1,8 @@
+﻿# Logs
+*.log
+node_modules/
+*.vsix
+.DS_Store
+Thumbs.db
+out/
+dist/

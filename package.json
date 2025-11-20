@@ -1,0 +1,60 @@
+{
+  "name": "nemesisnet-theme",
+  "displayName": "NemesisNet Theme",
+  "description": "Official NemesisNet brand theme with Base, Nemesis, and Aurora variants",
+  "version": "1.0.0",
+  "publisher": "NemesisNet",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "nemesisnet",
+    "aurora",
+    "cyberpunk"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NemesisNet Base Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/base-dark.json"
+      },
+      {
+        "label": "NemesisNet Base Light",
+        "uiTheme": "vs",
+        "path": "./themes/base-light.json"
+      },
+      {
+        "label": "NemesisNet Nemesis Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nemesis-dark.json"
+      },
+      {
+        "label": "NemesisNet Nemesis Light",
+        "uiTheme": "vs",
+        "path": "./themes/nemesis-light.json"
+      },
+      {
+        "label": "NemesisNet Aurora Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-dark.json"
+      },
+      {
+        "label": "NemesisNet Aurora Light",
+        "uiTheme": "vs",
+        "path": "./themes/aurora-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NemesisNet/vscode-theme"
+  },
+  "icon": "icon.png"
+}
